@@ -1,0 +1,27 @@
+body {
+    width: 300px;
+    padding: 10px;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    background-color: #fff;
+    color: #282829;
+  }
+  
+  h1 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #b92b27;
+  }
+  
+  button {
+    margin-bottom: 10px;
+    background-color: #b92b27;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  #result {
+    max-height: 300px;
+    overflow-y: auto;
+  }
